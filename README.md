@@ -33,6 +33,14 @@ Check out the live site here: [Copcat Website Live](https://copycat-landing-page
 
 ## Screenshots
 
-### Main Screenshot
-![Copycat](images/copycat.png)
+### Desktop View
+![Desktop](images/copycat-desktop-view.png)
+
+
+
+
+
+
+### Mobile View
+![Mobile](images/copycat-mobile-view.png)
 
